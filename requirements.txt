@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+geopandas
+shapely
+werkzeug
+scikit-learn
+pyyaml==6.0.2
