@@ -6,3 +6,5 @@ shapely
 werkzeug
 scikit-learn
 pyyaml==6.0.2
+folium
+streamlit-folium
